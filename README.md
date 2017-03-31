@@ -1,0 +1,1 @@
+# latihan_fungsi2
